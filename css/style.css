@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+}
+h1 {
+    color: blue;
+}
+p {
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
